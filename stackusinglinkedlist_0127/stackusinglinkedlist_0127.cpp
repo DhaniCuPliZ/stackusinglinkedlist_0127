@@ -54,3 +54,7 @@ public:
 		return top == NULL;
 	}
 };
+
+int main() {
+	Stack stack;
+
